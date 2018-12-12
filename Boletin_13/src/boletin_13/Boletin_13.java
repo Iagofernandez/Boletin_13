@@ -15,7 +15,7 @@ public class Boletin_13 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       Plantilla obx=new Plantilla("Paco","Fernandez", 5, 22);
+       Plantilla obx=new Plantilla("Paco","Fernandez FC", 5, 22);
         Xogador_seleccion obx1=new Xogador_seleccion("Cristiano","ronaldo",3,35, 9,"delantero");
         Adestrador_seleccion obx2=new Adestrador_seleccion("Rafa","Benitez",32,54,"356472y64h");
         Masaxista_seleccion obx3=new Masaxista_seleccion ("Alonso","Pedrafita",42,30,12,"tecnico en torsion de espalda");
